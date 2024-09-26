@@ -21,5 +21,7 @@ git push -u origin main
 **naming convention:use small case with Hyphons(-).No spaces**
 
 ```
-git add . ; git commit -m "some-message" git push -u origin main
+git add . ; git commit -m "some-message"; git push -u origin main
+
+
 ```
